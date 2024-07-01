@@ -1,1 +1,1 @@
-dfdfdsf
+해당 폴더는 프론트엔드(HTML,CSS,JavaScript)만을 작성해서 올려 놓은 작업 공간입니다.
